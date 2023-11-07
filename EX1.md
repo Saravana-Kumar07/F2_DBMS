@@ -1,5 +1,5 @@
 # <p align="center"> EXP NO 1: DATA DEFINITION LANGUAGE COMMANDS IN RDBMS</p>
-## DATE: 08/08/23
+### DATE: 08/08/23
 ## AIM:
 To create a student database and execute DDL queries using SQL.
 
